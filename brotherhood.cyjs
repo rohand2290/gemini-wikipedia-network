@@ -1,0 +1,1238 @@
+{
+  "format_version": "1.0",
+  "generated_by": "cause_effect_extractor",
+  "target_cytoscape_version": "~3.9",
+  "creationTime": "2025-08-19T03:06:05.353277Z",
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "org_muslim_brotherhood",
+          "label": "Muslim Brotherhood",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_hassan_al_banna",
+          "label": "Hassan al-Banna",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_founding_mb_1928",
+          "label": "Founding of Muslim Brotherhood (1928)",
+          "type": "Event",
+          "time_start": "1928-03-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_al_banna_teachings_spread",
+          "label": "Al-Banna's teachings spread",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_islamist_movements_influenced",
+          "label": "Islamist movements influenced",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_initial_activities",
+          "label": "MB's initial activities (preaching, teaching, charity)",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_advanced_political_arena",
+          "label": "MB advanced into political arena",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_british_colonial_control_egypt",
+          "label": "British colonial control of Egypt",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_aim_end_british_control",
+          "label": "Aim to end British colonial control",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_aim_establish_sharia_state",
+          "label": "Aim to establish sharia state",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_spread_other_countries",
+          "label": "MB spread to other Muslim countries",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_government_crackdowns_since_1948",
+          "label": "Government crackdowns (since 1948)",
+          "type": "Event",
+          "time_start": "1948-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_mb_fringe_group_until_1967",
+          "label": "MB as fringe group (until 1967)",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": "1967-01-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_six_day_war_1967",
+          "label": "1967 Six-Day War",
+          "type": "Event",
+          "time_start": "1967-06-05",
+          "time_end": "1967-06-10",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_arab_defeat_by_israel_1967",
+          "label": "Resounding Arab defeat by Israel (1967)",
+          "type": "Event",
+          "time_start": "1967-06-10",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_islamism_replaced_secular_arab_nationalism",
+          "label": "Islamism replaced secular Arab nationalism",
+          "type": "Event",
+          "time_start": "1967-06-10",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_saudi_arabia",
+          "label": "Saudi Arabia",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_mutual_enemies_communism",
+          "label": "Mutual enemies like communism",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_saudi_arabia_supported_mb",
+          "label": "Saudi Arabia supported MB",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_arab_spring",
+          "label": "Arab Spring",
+          "type": "Event",
+          "time_start": "2010-12-18",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_legalized_egypt_2011",
+          "label": "MB legalized in Egypt (2011)",
+          "type": "Event",
+          "time_start": "2011-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_gained_political_power",
+          "label": "MB gained substantial political power",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_won_elections",
+          "label": "MB won several elections",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_2012_presidential_election",
+          "label": "2012 presidential election",
+          "type": "Event",
+          "time_start": "2012-05-23",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_mohamed_morsi",
+          "label": "Mohamed Morsi",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_became_president_2012",
+          "label": "Mohamed Morsi became president (2012)",
+          "type": "Event",
+          "time_start": "2012-06-30",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_massive_demonstrations_unrest_2013",
+          "label": "Massive demonstrations and unrest (2013)",
+          "type": "Event",
+          "time_start": "2013-06-30",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_overthrown_military_2013",
+          "label": "Morsi overthrown by military (2013)",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_placed_house_arrest_2013",
+          "label": "Morsi placed under house arrest (2013)",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_failed_moderate_democratic_values",
+          "label": "MB failed to moderate views/embrace democratic values",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_banned_egypt",
+          "label": "MB banned in Egypt",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_declared_terrorist_egypt",
+          "label": "MB declared terrorist organization (Egypt)",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_uae",
+          "label": "United Arab Emirates",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_gulf_monarchies_followed_suit",
+          "label": "Persian Gulf monarchies followed suit",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_mb_threat_authoritarian_rule",
+          "label": "Perception: MB is threat to authoritarian rule",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_founder_accepted_political_violence",
+          "label": "Founder accepted utility of political violence",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_members_conducted_assassinations",
+          "label": "MB members conducted assassinations",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_nokrashi_assassination_1948",
+          "label": "Mahmud El Nokrashi assassination (1948)",
+          "type": "Event",
+          "time_start": "1948-12-28",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_sayyid_qutb",
+          "label": "Sayyid Qutb",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_qutb_promoted_takfirism",
+          "label": "Sayyid Qutb promoted takfirism",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_maalim_fi_l_tariq",
+          "label": "Ma'alim fi-l-Tariq (Milestones)",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_takfirism_doctrine",
+          "label": "Takfirism doctrine",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_takfirism_permits_stigmatisation",
+          "label": "Takfirism permits stigmatisation of Muslims",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_takfirism_permits_states_unislamic",
+          "label": "Takfirism permits existing states as unIslamic",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_takfirism_permits_extreme_violence",
+          "label": "Takfirism permits use of extreme violence",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_takfirism_inspires_jihadist_movements",
+          "label": "Takfirism inspires Jihadist movements",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mb_abandoned_violence_1970s",
+          "label": "MB abandoned use of violence (1970s)",
+          "type": "Event",
+          "time_start": "1970-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_hamas",
+          "label": "Hamas",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_hamas_continues_violence",
+          "label": "Hamas continues to use violence",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "e_person_hassan_al_banna_evt_founding_mb_1928_causes",
+          "source": "person_hassan_al_banna",
+          "target": "evt_founding_mb_1928",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "founded in Egypt by Islamic scholar, Imam and schoolteacher Hassan al-Banna in 1928.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_founding_mb_1928_evt_mb_initial_activities_enables",
+          "source": "evt_founding_mb_1928",
+          "target": "evt_mb_initial_activities",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Initially, as a Pan-Islamic, religious, and social movement, it preached Islam in Egypt, taught the illiterate, and set up hospitals and business enterprises.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_al_banna_teachings_spread_evt_islamist_movements_influenced_causes",
+          "source": "evt_al_banna_teachings_spread",
+          "target": "evt_islamist_movements_influenced",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Al-Banna's teachings spread far beyond Egypt, influencing various Islamist movements from charitable organizations to political parties.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_muslim_brotherhood_evt_mb_advanced_political_arena_enables",
+          "source": "org_muslim_brotherhood",
+          "target": "evt_mb_advanced_political_arena",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "It later advanced into the political arena",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_advanced_political_arena_evt_aim_end_british_control_leads_to",
+          "source": "evt_mb_advanced_political_arena",
+          "target": "evt_aim_end_british_control",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "It later advanced into the political arena, aiming to end British colonial control of Egypt.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_muslim_brotherhood_evt_aim_establish_sharia_state_enables",
+          "source": "org_muslim_brotherhood",
+          "target": "evt_aim_establish_sharia_state",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The movement's self-stated aim is the establishment of a state ruled by sharia law under a caliphate",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_six_day_war_1967_evt_arab_defeat_by_israel_1967_causes",
+          "source": "evt_six_day_war_1967",
+          "target": "evt_arab_defeat_by_israel_1967",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "until the 1967 Six-Day War, when Islamism replaced popular secular Arab nationalism after a resounding Arab defeat by Israel.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_arab_defeat_by_israel_1967_evt_islamism_replaced_secular_arab_nationalism_causes",
+          "source": "evt_arab_defeat_by_israel_1967",
+          "target": "evt_islamism_replaced_secular_arab_nationalism",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "after a resounding Arab defeat by Israel.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_islamism_replaced_secular_arab_nationalism_concept_mb_fringe_group_until_1967_mitigates",
+          "source": "evt_islamism_replaced_secular_arab_nationalism",
+          "target": "concept_mb_fringe_group_until_1967",
+          "relation_type": "mitigates",
+          "polarity": -1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "It remained a fringe group in the politics of the Arab World until the 1967 Six-Day War, when Islamism replaced popular secular Arab nationalism after a resounding Arab defeat by Israel.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_mutual_enemies_communism_evt_saudi_arabia_supported_mb_enables",
+          "source": "concept_mutual_enemies_communism",
+          "target": "evt_saudi_arabia_supported_mb",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The movement was also supported by Saudi Arabia, with which it shared mutual enemies like communism.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_arab_spring_evt_mb_legalized_egypt_2011_causes",
+          "source": "evt_arab_spring",
+          "target": "evt_mb_legalized_egypt_2011",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The Arab Spring brought it legalization and substantial political power at first",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_arab_spring_evt_mb_gained_political_power_causes",
+          "source": "evt_arab_spring",
+          "target": "evt_mb_gained_political_power",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The Arab Spring brought it legalization and substantial political power at first",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_legalized_egypt_2011_evt_mb_won_elections_enables",
+          "source": "evt_mb_legalized_egypt_2011",
+          "target": "evt_mb_won_elections",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The Egyptian Muslim Brotherhood was legalized in 2011 and won several elections",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_won_elections_evt_morsi_became_president_2012_causes",
+          "source": "evt_mb_won_elections",
+          "target": "evt_morsi_became_president_2012",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "including the 2012 presidential election when its candidate Mohamed Morsi became Egypt's first president to gain power through an election.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_massive_demonstrations_unrest_2013_evt_morsi_overthrown_military_2013_causes",
+          "source": "evt_massive_demonstrations_unrest_2013",
+          "target": "evt_morsi_overthrown_military_2013",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "A year later, following massive demonstrations and unrest, he was overthrown by the military",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_morsi_overthrown_military_2013_evt_morsi_placed_house_arrest_2013_causes",
+          "source": "evt_morsi_overthrown_military_2013",
+          "target": "evt_morsi_placed_house_arrest_2013",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "he was overthrown by the military and placed under house arrest",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_failed_moderate_democratic_values_evt_mb_banned_egypt_causes",
+          "source": "evt_mb_failed_moderate_democratic_values",
+          "target": "evt_mb_banned_egypt",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "with a later review finding that the group failed to moderate its views or embrace democratic values during its time in power. The group was then banned in Egypt",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_failed_moderate_democratic_values_evt_mb_declared_terrorist_egypt_causes",
+          "source": "evt_mb_failed_moderate_democratic_values",
+          "target": "evt_mb_declared_terrorist_egypt",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "with a later review finding that the group failed to moderate its views or embrace democratic values during its time in power. The group was then... declared a terrorist organization.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mb_declared_terrorist_egypt_evt_gulf_monarchies_followed_suit_leads_to",
+          "source": "evt_mb_declared_terrorist_egypt",
+          "target": "evt_gulf_monarchies_followed_suit",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The Persian Gulf monarchies of Saudi Arabia and the United Arab Emirates followed suit",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_mb_threat_authoritarian_rule_evt_gulf_monarchies_followed_suit_causes",
+          "source": "concept_mb_threat_authoritarian_rule",
+          "target": "evt_gulf_monarchies_followed_suit",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "driven by the perception that the Brotherhood is a threat to their authoritarian rule.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_founder_accepted_political_violence_evt_members_conducted_assassinations_enables",
+          "source": "evt_founder_accepted_political_violence",
+          "target": "evt_members_conducted_assassinations",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The group's founder accepted the utility of political violence and members of Brotherhood conducted assassinations and attempted assassinations on Egyptian state figures during his lifetime",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_members_conducted_assassinations_evt_nokrashi_assassination_1948_enables",
+          "source": "evt_members_conducted_assassinations",
+          "target": "evt_nokrashi_assassination_1948",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "including Egyptian Prime Minister Mahmud El Nokrashi in 1948.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_person_sayyid_qutb_evt_qutb_promoted_takfirism_causes",
+          "source": "person_sayyid_qutb",
+          "target": "evt_qutb_promoted_takfirism",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Sayyid Qutb, one of the group's most prominent thinkers, promoted takfirism in Ma'alim fi-l-Tariq (Milestones)",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_qutb_promoted_takfirism_concept_takfirism_doctrine_causes",
+          "source": "evt_qutb_promoted_takfirism",
+          "target": "concept_takfirism_doctrine",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Sayyid Qutb, one of the group's most prominent thinkers, promoted takfirism in Ma'alim fi-l-Tariq (Milestones), a doctrine that permits",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_stigmatisation_enables",
+          "source": "concept_takfirism_doctrine",
+          "target": "evt_takfirism_permits_stigmatisation",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "a doctrine that permits 'the stigmatisation of other Muslims as infidel or apostate'",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_states_unislamic_enables",
+          "source": "concept_takfirism_doctrine",
+          "target": "evt_takfirism_permits_states_unislamic",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "and of existing states as unIslamic",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_extreme_violence_enables",
+          "source": "concept_takfirism_doctrine",
+          "target": "evt_takfirism_permits_extreme_violence",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "and the use of extreme violence in the pursuit of the perfect Islamic society",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_takfirism_doctrine_evt_takfirism_inspires_jihadist_movements_causes",
+          "source": "concept_takfirism_doctrine",
+          "target": "evt_takfirism_inspires_jihadist_movements",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "this doctrine continues to inspire many Jihadist movements.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_hamas_evt_hamas_continues_violence_causes",
+          "source": "org_hamas",
+          "target": "evt_hamas_continues_violence",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Hamas, a Palestinian militant group that controls the Gaza Strip, is an off-shoot of the Brotherhood that continues to use violence.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      }
+    ]
+  }
+}
