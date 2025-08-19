@@ -54,6 +54,7 @@
       langchain[google-genai]
       wikipedia
       py4cytoscape
+      ipycytoscape
     '';
   };
 
