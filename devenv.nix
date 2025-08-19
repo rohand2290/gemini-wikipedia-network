@@ -53,6 +53,7 @@
       langchain_community
       langchain[google-genai]
       wikipedia
+      py4cytoscape
     '';
   };
 

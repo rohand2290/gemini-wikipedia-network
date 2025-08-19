@@ -2,13 +2,37 @@
   "format_version": "1.0",
   "generated_by": "cause_effect_extractor",
   "target_cytoscape_version": "~3.9",
-  "creationTime": "2025-08-19T03:06:05.353277Z",
+  "creationTime": "2025-08-19T16:22:53.202454Z",
   "elements": {
     "nodes": [
       {
         "data": {
-          "id": "org_muslim_brotherhood",
-          "label": "Muslim Brotherhood",
+          "id": "evt_syrian_revolution_2011",
+          "label": "Syrian Revolution (2011)",
+          "type": "Event",
+          "time_start": "2011-03-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "conc_popular_discontent_baathist_regime",
+          "label": "Popular Discontent with Ba'athist Regime",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_assad_regime",
+          "label": "Assad Regime",
           "type": "Organization",
           "time_start": null,
           "time_end": null,
@@ -19,8 +43,8 @@
       },
       {
         "data": {
-          "id": "person_hassan_al_banna",
-          "label": "Hassan al-Banna",
+          "id": "person_bashar_al_assad",
+          "label": "Bashar al-Assad",
           "type": "Person",
           "time_start": null,
           "time_end": null,
@@ -31,10 +55,10 @@
       },
       {
         "data": {
-          "id": "evt_founding_mb_1928",
-          "label": "Founding of Muslim Brotherhood (1928)",
+          "id": "evt_protests_rallies_2011",
+          "label": "Large-scale Protests & Rallies (2011)",
           "type": "Event",
-          "time_start": "1928-03-01",
+          "time_start": "2011-03-01",
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -43,20 +67,8 @@
       },
       {
         "data": {
-          "id": "evt_al_banna_teachings_spread",
-          "label": "Al-Banna's teachings spread",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_islamist_movements_influenced",
-          "label": "Islamist movements influenced",
+          "id": "evt_assad_regime_lethal_force",
+          "label": "Assad Regime Response with Lethal Force",
           "type": "Event",
           "time_start": null,
           "time_end": null,
@@ -67,10 +79,10 @@
       },
       {
         "data": {
-          "id": "evt_mb_initial_activities",
-          "label": "MB's initial activities (preaching, teaching, charity)",
+          "id": "evt_syrian_civil_war_2011",
+          "label": "Syrian Civil War (2011)",
           "type": "Event",
-          "time_start": null,
+          "time_start": "2011-03-01",
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -79,10 +91,10 @@
       },
       {
         "data": {
-          "id": "evt_mb_advanced_political_arena",
-          "label": "MB advanced into political arena",
+          "id": "evt_fall_assad_regime_2024",
+          "label": "Fall of Assad Regime (2024)",
           "type": "Event",
-          "time_start": null,
+          "time_start": "2024-12-01",
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -91,10 +103,10 @@
       },
       {
         "data": {
-          "id": "concept_british_colonial_control_egypt",
-          "label": "British colonial control of Egypt",
-          "type": "Concept",
-          "time_start": null,
+          "id": "evt_end_syrian_civil_war",
+          "label": "End of Syrian Civil War (2024)",
+          "type": "Event",
+          "time_start": "2024-12-01",
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -103,104 +115,8 @@
       },
       {
         "data": {
-          "id": "evt_aim_end_british_control",
-          "label": "Aim to end British colonial control",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_aim_establish_sharia_state",
-          "label": "Aim to establish sharia state",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_spread_other_countries",
-          "label": "MB spread to other Muslim countries",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_government_crackdowns_since_1948",
-          "label": "Government crackdowns (since 1948)",
-          "type": "Event",
-          "time_start": "1948-01-01",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "concept_mb_fringe_group_until_1967",
-          "label": "MB as fringe group (until 1967)",
-          "type": "Concept",
-          "time_start": null,
-          "time_end": "1967-01-01",
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_six_day_war_1967",
-          "label": "1967 Six-Day War",
-          "type": "Event",
-          "time_start": "1967-06-05",
-          "time_end": "1967-06-10",
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_arab_defeat_by_israel_1967",
-          "label": "Resounding Arab defeat by Israel (1967)",
-          "type": "Event",
-          "time_start": "1967-06-10",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_islamism_replaced_secular_arab_nationalism",
-          "label": "Islamism replaced secular Arab nationalism",
-          "type": "Event",
-          "time_start": "1967-06-10",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "org_saudi_arabia",
-          "label": "Saudi Arabia",
+          "id": "org_syrian_opposition",
+          "label": "Syrian Opposition",
           "type": "Organization",
           "time_start": null,
           "time_end": null,
@@ -211,8 +127,464 @@
       },
       {
         "data": {
-          "id": "concept_mutual_enemies_communism",
-          "label": "Mutual enemies like communism",
+          "id": "evt_insurgency",
+          "label": "Insurgency",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_free_syrian_army",
+          "label": "Free Syrian Army",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "place_qatar",
+          "label": "Qatar",
+          "type": "Place",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "place_turkey",
+          "label": "Turkey",
+          "type": "Place",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_arms_supply_qatar_turkey",
+          "label": "Arms Supply from Qatar & Turkey",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_anti_assad_forces",
+          "label": "Anti-Assad Forces",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_pro_assad_forces",
+          "label": "Pro-Assad Forces",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "place_iran",
+          "label": "Iran",
+          "type": "Place",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "place_russia",
+          "label": "Russia",
+          "type": "Place",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_financial_military_support",
+          "label": "Financial & Military Support",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_iran_military_intervention_2013",
+          "label": "Iran Military Intervention (2013)",
+          "type": "Event",
+          "time_start": "2013-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_russia_military_intervention_2015",
+          "label": "Russia Military Intervention (2015)",
+          "type": "Event",
+          "time_start": "2015-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_rebels",
+          "label": "Rebels",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_syrian_interim_government",
+          "label": "Syrian Interim Government",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_capture_raqqa_2013",
+          "label": "Capture of Raqqa (2013)",
+          "type": "Event",
+          "time_start": "2013-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_capture_idlib_2015",
+          "label": "Capture of Idlib (2015)",
+          "type": "Event",
+          "time_start": "2015-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_isis",
+          "label": "Islamic State of Iraq and Syria (ISIS)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_isis_seizure_2014",
+          "label": "ISIS Seizure of Eastern Syria & Western Iraq (2014)",
+          "type": "Event",
+          "time_start": "2014-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_us_led_coalition",
+          "label": "United States-led Coalition",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_aerial_bombing_isis",
+          "label": "Aerial Bombing Campaign against ISIS",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_sdf",
+          "label": "Syrian Democratic Forces (SDF)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_ypg",
+          "label": "People's Defense Units (YPG)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_turkey_invasion_northern_syria_2016",
+          "label": "Turkey Invasion of Northern Syria (2016)",
+          "type": "Event",
+          "time_start": "2016-01-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_rojava",
+          "label": "Autonomous Administration of North and East Syria (Rojava)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_sna",
+          "label": "Syrian National Army (SNA)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_pro_assad_victory_aleppo_2016",
+          "label": "Pro-Assad Victory in Battle of Aleppo (2016)",
+          "type": "Event",
+          "time_start": "2016-12-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_battle_aleppo_2012_2016",
+          "label": "Battle of Aleppo (2012-2016)",
+          "type": "Event",
+          "time_start": "2012-01-01",
+          "time_end": "2016-12-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_recapture_aleppo_2016",
+          "label": "Recapture of Aleppo (2016)",
+          "type": "Event",
+          "time_start": "2016-12-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_hts",
+          "label": "Hay'at Tahrir al-Sham (HTS)",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_syrian_salvation_government",
+          "label": "Syrian Salvation Government (2017-2024)",
+          "type": "Organization",
+          "time_start": "2017-01-01",
+          "time_end": "2024-12-31",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_raqqa_campaign",
+          "label": "Raqqa Campaign",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_deir_ez_zor_campaign",
+          "label": "Deir ez-Zor Campaign",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_defeat_isis",
+          "label": "Defeat of ISIS",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_offensive_idlib_2019",
+          "label": "Regime Offensive on Idlib (2019)",
+          "type": "Event",
+          "time_start": "2019-12-01",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_ceasefire_2020_2024",
+          "label": "Ceasefire (2020-2024)",
+          "type": "Event",
+          "time_start": "2020-01-01",
+          "time_end": "2024-11-30",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_regular_clashes",
+          "label": "Regular Clashes",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_hts_offensive_2024",
+          "label": "HTS Major Offensive (2024)",
+          "type": "Event",
+          "time_start": "2024-11-27",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_fall_aleppo_2024",
+          "label": "Fall of Aleppo (2024)",
+          "type": "Event",
+          "time_start": "2024-11-30",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "conc_momentum_revolutionaries",
+          "label": "Momentum for Revolutionaries",
           "type": "Concept",
           "time_start": null,
           "time_end": null,
@@ -223,8 +595,20 @@
       },
       {
         "data": {
-          "id": "evt_saudi_arabia_supported_mb",
-          "label": "Saudi Arabia supported MB",
+          "id": "org_southern_rebels",
+          "label": "Southern Rebels",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_southern_rebels_offensive",
+          "label": "Southern Rebels Offensive",
           "type": "Event",
           "time_start": null,
           "time_end": null,
@@ -235,32 +619,8 @@
       },
       {
         "data": {
-          "id": "evt_arab_spring",
-          "label": "Arab Spring",
-          "type": "Event",
-          "time_start": "2010-12-18",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_legalized_egypt_2011",
-          "label": "MB legalized in Egypt (2011)",
-          "type": "Event",
-          "time_start": "2011-01-01",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_gained_political_power",
-          "label": "MB gained substantial political power",
+          "id": "evt_capture_daraa",
+          "label": "Capture of Daraa",
           "type": "Event",
           "time_start": null,
           "time_end": null,
@@ -271,8 +631,8 @@
       },
       {
         "data": {
-          "id": "evt_mb_won_elections",
-          "label": "MB won several elections",
+          "id": "evt_capture_suwayda",
+          "label": "Capture of Suwayda",
           "type": "Event",
           "time_start": null,
           "time_end": null,
@@ -283,10 +643,10 @@
       },
       {
         "data": {
-          "id": "evt_2012_presidential_election",
-          "label": "2012 presidential election",
+          "id": "evt_capture_hama",
+          "label": "Capture of Hama",
           "type": "Event",
-          "time_start": "2012-05-23",
+          "time_start": null,
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -295,8 +655,176 @@
       },
       {
         "data": {
-          "id": "person_mohamed_morsi",
-          "label": "Mohamed Morsi",
+          "id": "evt_sfa_offensive_palmyra",
+          "label": "Syrian Free Army Offensive in Palmyra",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_sdf_offensive_deir_ez_zor",
+          "label": "SDF Offensive in Deir ez-Zor",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_assad_flees_2024",
+          "label": "Bashar al-Assad Flees to Moscow (2024)",
+          "type": "Event",
+          "time_start": "2024-12-08",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_fall_homs_2024",
+          "label": "Fall of Homs (2024)",
+          "type": "Event",
+          "time_start": "2024-12-08",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_fall_damascus_2024",
+          "label": "Fall of Damascus (2024)",
+          "type": "Event",
+          "time_start": "2024-12-08",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_revolutionaries",
+          "label": "Revolutionaries",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_pm_transfers_power_2024",
+          "label": "Prime Minister Transfers Power (2024)",
+          "type": "Event",
+          "time_start": "2024-12-08",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_new_government",
+          "label": "New Government",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "place_israel",
+          "label": "Israel",
+          "type": "Place",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_israel_invasion_quneitra_2024",
+          "label": "Israel Invasion of Quneitra Governorate (2024)",
+          "type": "Event",
+          "time_start": "2024-12-08",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "conc_golan_heights_occupation",
+          "label": "Syrian Golan Heights Occupation (1966-2024)",
+          "type": "Concept",
+          "time_start": "1966-01-01",
+          "time_end": "2024-12-08",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_syrian_revolution_victory_conference_2025",
+          "label": "Syrian Revolution Victory Conference (2025)",
+          "type": "Event",
+          "time_start": "2025-01-29",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_dissolution_militias_2025",
+          "label": "Dissolution of Armed Militias (2025)",
+          "type": "Event",
+          "time_start": "2025-01-29",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_integration_mod_2025",
+          "label": "Integration into Syrian Ministry of Defense (2025)",
+          "type": "Event",
+          "time_start": "2025-01-29",
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_ahmed_al_sharaa",
+          "label": "Ahmed al-Sharaa",
           "type": "Person",
           "time_start": null,
           "time_end": null,
@@ -307,10 +835,10 @@
       },
       {
         "data": {
-          "id": "evt_morsi_became_president_2012",
-          "label": "Mohamed Morsi became president (2012)",
+          "id": "evt_appointment_al_sharaa_president_2025",
+          "label": "Appointment of Ahmed al-Sharaa as President (2025)",
           "type": "Event",
-          "time_start": "2012-06-30",
+          "time_start": "2025-01-29",
           "time_end": null,
           "wikidata_id": null,
           "provenance": null,
@@ -319,273 +847,9 @@
       },
       {
         "data": {
-          "id": "evt_massive_demonstrations_unrest_2013",
-          "label": "Massive demonstrations and unrest (2013)",
-          "type": "Event",
-          "time_start": "2013-06-30",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_morsi_overthrown_military_2013",
-          "label": "Morsi overthrown by military (2013)",
-          "type": "Event",
-          "time_start": "2013-07-03",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_morsi_placed_house_arrest_2013",
-          "label": "Morsi placed under house arrest (2013)",
-          "type": "Event",
-          "time_start": "2013-07-03",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_failed_moderate_democratic_values",
-          "label": "MB failed to moderate views/embrace democratic values",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_banned_egypt",
-          "label": "MB banned in Egypt",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_declared_terrorist_egypt",
-          "label": "MB declared terrorist organization (Egypt)",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "org_uae",
-          "label": "United Arab Emirates",
+          "id": "org_syrian_ministry_of_defense",
+          "label": "Syrian Ministry of Defense",
           "type": "Organization",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_gulf_monarchies_followed_suit",
-          "label": "Persian Gulf monarchies followed suit",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "concept_mb_threat_authoritarian_rule",
-          "label": "Perception: MB is threat to authoritarian rule",
-          "type": "Concept",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_founder_accepted_political_violence",
-          "label": "Founder accepted utility of political violence",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_members_conducted_assassinations",
-          "label": "MB members conducted assassinations",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_nokrashi_assassination_1948",
-          "label": "Mahmud El Nokrashi assassination (1948)",
-          "type": "Event",
-          "time_start": "1948-12-28",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "person_sayyid_qutb",
-          "label": "Sayyid Qutb",
-          "type": "Person",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_qutb_promoted_takfirism",
-          "label": "Sayyid Qutb promoted takfirism",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "concept_maalim_fi_l_tariq",
-          "label": "Ma'alim fi-l-Tariq (Milestones)",
-          "type": "Concept",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "concept_takfirism_doctrine",
-          "label": "Takfirism doctrine",
-          "type": "Concept",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_takfirism_permits_stigmatisation",
-          "label": "Takfirism permits stigmatisation of Muslims",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_takfirism_permits_states_unislamic",
-          "label": "Takfirism permits existing states as unIslamic",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_takfirism_permits_extreme_violence",
-          "label": "Takfirism permits use of extreme violence",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_takfirism_inspires_jihadist_movements",
-          "label": "Takfirism inspires Jihadist movements",
-          "type": "Event",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_mb_abandoned_violence_1970s",
-          "label": "MB abandoned use of violence (1970s)",
-          "type": "Event",
-          "time_start": "1970-01-01",
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "org_hamas",
-          "label": "Hamas",
-          "type": "Organization",
-          "time_start": null,
-          "time_end": null,
-          "wikidata_id": null,
-          "provenance": null,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "evt_hamas_continues_violence",
-          "label": "Hamas continues to use violence",
-          "type": "Event",
           "time_start": null,
           "time_end": null,
           "wikidata_id": null,
@@ -597,16 +861,38 @@
     "edges": [
       {
         "data": {
-          "id": "e_person_hassan_al_banna_evt_founding_mb_1928_causes",
-          "source": "person_hassan_al_banna",
-          "target": "evt_founding_mb_1928",
+          "id": "e_conc_popular_discontent_baathist_regime_evt_protests_rallies_2011_triggers",
+          "source": "conc_popular_discontent_baathist_regime",
+          "target": "evt_protests_rallies_2011",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "popular discontent with the Ba'athist regime ruled by Bashar al-Assad triggered large-scale protests and pro-democracy rallies across Syria",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_assad_regime_evt_assad_regime_lethal_force_causes",
+          "source": "org_assad_regime",
+          "target": "evt_assad_regime_lethal_force",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "founded in Egypt by Islamic scholar, Imam and schoolteacher Hassan al-Banna in 1928.",
+              "quote": "The Assad regime responded to the protests with lethal force",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -619,16 +905,16 @@
       },
       {
         "data": {
-          "id": "e_evt_founding_mb_1928_evt_mb_initial_activities_enables",
-          "source": "evt_founding_mb_1928",
-          "target": "evt_mb_initial_activities",
-          "relation_type": "enables",
+          "id": "e_evt_assad_regime_lethal_force_evt_syrian_civil_war_2011_triggers",
+          "source": "evt_assad_regime_lethal_force",
+          "target": "evt_syrian_civil_war_2011",
+          "relation_type": "triggers",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "Initially, as a Pan-Islamic, religious, and social movement, it preached Islam in Egypt, taught the illiterate, and set up hospitals and business enterprises.",
+              "quote": "The Assad regime responded to the protests with lethal force, sparking a civil war.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -641,60 +927,16 @@
       },
       {
         "data": {
-          "id": "e_evt_al_banna_teachings_spread_evt_islamist_movements_influenced_causes",
-          "source": "evt_al_banna_teachings_spread",
-          "target": "evt_islamist_movements_influenced",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "Al-Banna's teachings spread far beyond Egypt, influencing various Islamist movements from charitable organizations to political parties.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_org_muslim_brotherhood_evt_mb_advanced_political_arena_enables",
-          "source": "org_muslim_brotherhood",
-          "target": "evt_mb_advanced_political_arena",
-          "relation_type": "enables",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "It later advanced into the political arena",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_advanced_political_arena_evt_aim_end_british_control_leads_to",
-          "source": "evt_mb_advanced_political_arena",
-          "target": "evt_aim_end_british_control",
+          "id": "e_evt_syrian_revolution_2011_evt_fall_assad_regime_2024_leads_to",
+          "source": "evt_syrian_revolution_2011",
+          "target": "evt_fall_assad_regime_2024",
           "relation_type": "leads_to",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "It later advanced into the political arena, aiming to end British colonial control of Egypt.",
+              "quote": "The Syrian revolution lasted almost 14 years and culminated in the fall of the Assad regime in December 2024.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -707,302 +949,16 @@
       },
       {
         "data": {
-          "id": "e_org_muslim_brotherhood_evt_aim_establish_sharia_state_enables",
-          "source": "org_muslim_brotherhood",
-          "target": "evt_aim_establish_sharia_state",
-          "relation_type": "enables",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "The movement's self-stated aim is the establishment of a state ruled by sharia law under a caliphate",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_six_day_war_1967_evt_arab_defeat_by_israel_1967_causes",
-          "source": "evt_six_day_war_1967",
-          "target": "evt_arab_defeat_by_israel_1967",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "until the 1967 Six-Day War, when Islamism replaced popular secular Arab nationalism after a resounding Arab defeat by Israel.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_arab_defeat_by_israel_1967_evt_islamism_replaced_secular_arab_nationalism_causes",
-          "source": "evt_arab_defeat_by_israel_1967",
-          "target": "evt_islamism_replaced_secular_arab_nationalism",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "after a resounding Arab defeat by Israel.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_islamism_replaced_secular_arab_nationalism_concept_mb_fringe_group_until_1967_mitigates",
-          "source": "evt_islamism_replaced_secular_arab_nationalism",
-          "target": "concept_mb_fringe_group_until_1967",
-          "relation_type": "mitigates",
-          "polarity": -1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "It remained a fringe group in the politics of the Arab World until the 1967 Six-Day War, when Islamism replaced popular secular Arab nationalism after a resounding Arab defeat by Israel.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_concept_mutual_enemies_communism_evt_saudi_arabia_supported_mb_enables",
-          "source": "concept_mutual_enemies_communism",
-          "target": "evt_saudi_arabia_supported_mb",
-          "relation_type": "enables",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "The movement was also supported by Saudi Arabia, with which it shared mutual enemies like communism.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_arab_spring_evt_mb_legalized_egypt_2011_causes",
-          "source": "evt_arab_spring",
-          "target": "evt_mb_legalized_egypt_2011",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "The Arab Spring brought it legalization and substantial political power at first",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_arab_spring_evt_mb_gained_political_power_causes",
-          "source": "evt_arab_spring",
-          "target": "evt_mb_gained_political_power",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "The Arab Spring brought it legalization and substantial political power at first",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_legalized_egypt_2011_evt_mb_won_elections_enables",
-          "source": "evt_mb_legalized_egypt_2011",
-          "target": "evt_mb_won_elections",
-          "relation_type": "enables",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "The Egyptian Muslim Brotherhood was legalized in 2011 and won several elections",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_won_elections_evt_morsi_became_president_2012_causes",
-          "source": "evt_mb_won_elections",
-          "target": "evt_morsi_became_president_2012",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "including the 2012 presidential election when its candidate Mohamed Morsi became Egypt's first president to gain power through an election.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_massive_demonstrations_unrest_2013_evt_morsi_overthrown_military_2013_causes",
-          "source": "evt_massive_demonstrations_unrest_2013",
-          "target": "evt_morsi_overthrown_military_2013",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "A year later, following massive demonstrations and unrest, he was overthrown by the military",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_morsi_overthrown_military_2013_evt_morsi_placed_house_arrest_2013_causes",
-          "source": "evt_morsi_overthrown_military_2013",
-          "target": "evt_morsi_placed_house_arrest_2013",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "he was overthrown by the military and placed under house arrest",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_failed_moderate_democratic_values_evt_mb_banned_egypt_causes",
-          "source": "evt_mb_failed_moderate_democratic_values",
-          "target": "evt_mb_banned_egypt",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "with a later review finding that the group failed to moderate its views or embrace democratic values during its time in power. The group was then banned in Egypt",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_failed_moderate_democratic_values_evt_mb_declared_terrorist_egypt_causes",
-          "source": "evt_mb_failed_moderate_democratic_values",
-          "target": "evt_mb_declared_terrorist_egypt",
-          "relation_type": "causes",
-          "polarity": 1,
-          "confidence": 0.5,
-          "lag_days": null,
-          "evidence": [
-            {
-              "quote": "with a later review finding that the group failed to moderate its views or embrace democratic values during its time in power. The group was then... declared a terrorist organization.",
-              "citation_ids": [],
-              "section": null,
-              "char_spans": null
-            }
-          ],
-          "temporal_valid": true,
-          "provisional": false,
-          "meta": {}
-        }
-      },
-      {
-        "data": {
-          "id": "e_evt_mb_declared_terrorist_egypt_evt_gulf_monarchies_followed_suit_leads_to",
-          "source": "evt_mb_declared_terrorist_egypt",
-          "target": "evt_gulf_monarchies_followed_suit",
+          "id": "e_evt_fall_assad_regime_2024_evt_end_syrian_civil_war_leads_to",
+          "source": "evt_fall_assad_regime_2024",
+          "target": "evt_end_syrian_civil_war",
           "relation_type": "leads_to",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "The Persian Gulf monarchies of Saudi Arabia and the United Arab Emirates followed suit",
+              "quote": "Many sources regard this as the end of the civil war.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1015,16 +971,16 @@
       },
       {
         "data": {
-          "id": "e_concept_mb_threat_authoritarian_rule_evt_gulf_monarchies_followed_suit_causes",
-          "source": "concept_mb_threat_authoritarian_rule",
-          "target": "evt_gulf_monarchies_followed_suit",
+          "id": "e_org_syrian_opposition_evt_insurgency_causes",
+          "source": "org_syrian_opposition",
+          "target": "evt_insurgency",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "driven by the perception that the Brotherhood is a threat to their authoritarian rule.",
+              "quote": "The Syrian opposition to Bashar al-Assad began an insurgency",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1037,16 +993,16 @@
       },
       {
         "data": {
-          "id": "e_evt_founder_accepted_political_violence_evt_members_conducted_assassinations_enables",
-          "source": "evt_founder_accepted_political_violence",
-          "target": "evt_members_conducted_assassinations",
+          "id": "e_evt_insurgency_org_free_syrian_army_enables",
+          "source": "evt_insurgency",
+          "target": "org_free_syrian_army",
           "relation_type": "enables",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "The group's founder accepted the utility of political violence and members of Brotherhood conducted assassinations and attempted assassinations on Egyptian state figures during his lifetime",
+              "quote": "began an insurgency, forming groups such as the Free Syrian Army.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1059,16 +1015,16 @@
       },
       {
         "data": {
-          "id": "e_evt_members_conducted_assassinations_evt_nokrashi_assassination_1948_enables",
-          "source": "evt_members_conducted_assassinations",
-          "target": "evt_nokrashi_assassination_1948",
+          "id": "e_place_qatar_evt_arms_supply_qatar_turkey_enables",
+          "source": "place_qatar",
+          "target": "evt_arms_supply_qatar_turkey",
           "relation_type": "enables",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "including Egyptian Prime Minister Mahmud El Nokrashi in 1948.",
+              "quote": "Anti-Assad forces received arms from states such as Qatar and Turkey.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1081,16 +1037,126 @@
       },
       {
         "data": {
-          "id": "e_person_sayyid_qutb_evt_qutb_promoted_takfirism_causes",
-          "source": "person_sayyid_qutb",
-          "target": "evt_qutb_promoted_takfirism",
+          "id": "e_place_turkey_evt_arms_supply_qatar_turkey_enables",
+          "source": "place_turkey",
+          "target": "evt_arms_supply_qatar_turkey",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Anti-Assad forces received arms from states such as Qatar and Turkey.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_arms_supply_qatar_turkey_org_anti_assad_forces_enables",
+          "source": "evt_arms_supply_qatar_turkey",
+          "target": "org_anti_assad_forces",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Anti-Assad forces received arms from states such as Qatar and Turkey.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_iran_evt_financial_military_support_enables",
+          "source": "place_iran",
+          "target": "evt_financial_military_support",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Pro-Assad forces received financial and military support from Iran and Russia",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_russia_evt_financial_military_support_enables",
+          "source": "place_russia",
+          "target": "evt_financial_military_support",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Pro-Assad forces received financial and military support from Iran and Russia",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_financial_military_support_org_pro_assad_forces_enables",
+          "source": "evt_financial_military_support",
+          "target": "org_pro_assad_forces",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Pro-Assad forces received financial and military support from Iran and Russia",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_iran_evt_iran_military_intervention_2013_causes",
+          "source": "place_iran",
+          "target": "evt_iran_military_intervention_2013",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "Sayyid Qutb, one of the group's most prominent thinkers, promoted takfirism in Ma'alim fi-l-Tariq (Milestones)",
+              "quote": "Iran launched a military intervention in support of the Syrian government in 2013",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1103,16 +1169,16 @@
       },
       {
         "data": {
-          "id": "e_evt_qutb_promoted_takfirism_concept_takfirism_doctrine_causes",
-          "source": "evt_qutb_promoted_takfirism",
-          "target": "concept_takfirism_doctrine",
+          "id": "e_place_russia_evt_russia_military_intervention_2015_causes",
+          "source": "place_russia",
+          "target": "evt_russia_military_intervention_2015",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "Sayyid Qutb, one of the group's most prominent thinkers, promoted takfirism in Ma'alim fi-l-Tariq (Milestones), a doctrine that permits",
+              "quote": "Russia followed in 2015.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1125,16 +1191,16 @@
       },
       {
         "data": {
-          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_stigmatisation_enables",
-          "source": "concept_takfirism_doctrine",
-          "target": "evt_takfirism_permits_stigmatisation",
+          "id": "e_evt_iran_military_intervention_2013_org_pro_assad_forces_enables",
+          "source": "evt_iran_military_intervention_2013",
+          "target": "org_pro_assad_forces",
           "relation_type": "enables",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "a doctrine that permits 'the stigmatisation of other Muslims as infidel or apostate'",
+              "quote": "Iran launched a military intervention in support of the Syrian government in 2013",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1147,16 +1213,16 @@
       },
       {
         "data": {
-          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_states_unislamic_enables",
-          "source": "concept_takfirism_doctrine",
-          "target": "evt_takfirism_permits_states_unislamic",
+          "id": "e_evt_russia_military_intervention_2015_org_pro_assad_forces_enables",
+          "source": "evt_russia_military_intervention_2015",
+          "target": "org_pro_assad_forces",
           "relation_type": "enables",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "and of existing states as unIslamic",
+              "quote": "Russia followed in 2015.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1169,16 +1235,16 @@
       },
       {
         "data": {
-          "id": "e_concept_takfirism_doctrine_evt_takfirism_permits_extreme_violence_enables",
-          "source": "concept_takfirism_doctrine",
-          "target": "evt_takfirism_permits_extreme_violence",
+          "id": "e_evt_capture_raqqa_2013_org_syrian_interim_government_enables",
+          "source": "evt_capture_raqqa_2013",
+          "target": "org_syrian_interim_government",
           "relation_type": "enables",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "and the use of extreme violence in the pursuit of the perfect Islamic society",
+              "quote": "rebels had established the Syrian Interim Government after capturing the regional capitals of Raqqa in 2013",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1191,16 +1257,38 @@
       },
       {
         "data": {
-          "id": "e_concept_takfirism_doctrine_evt_takfirism_inspires_jihadist_movements_causes",
-          "source": "concept_takfirism_doctrine",
-          "target": "evt_takfirism_inspires_jihadist_movements",
+          "id": "e_evt_capture_idlib_2015_org_syrian_interim_government_enables",
+          "source": "evt_capture_idlib_2015",
+          "target": "org_syrian_interim_government",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "rebels had established the Syrian Interim Government after capturing the regional capitals of Raqqa in 2013 and Idlib in 2015.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_rebels_org_syrian_interim_government_causes",
+          "source": "org_rebels",
+          "target": "org_syrian_interim_government",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "this doctrine continues to inspire many Jihadist movements.",
+              "quote": "rebels had established the Syrian Interim Government",
               "citation_ids": [],
               "section": null,
               "char_spans": null
@@ -1213,16 +1301,962 @@
       },
       {
         "data": {
-          "id": "e_org_hamas_evt_hamas_continues_violence_causes",
-          "source": "org_hamas",
-          "target": "evt_hamas_continues_violence",
+          "id": "e_org_isis_evt_isis_seizure_2014_causes",
+          "source": "org_isis",
+          "target": "evt_isis_seizure_2014",
           "relation_type": "causes",
           "polarity": 1,
           "confidence": 0.5,
           "lag_days": null,
           "evidence": [
             {
-              "quote": "Hamas, a Palestinian militant group that controls the Gaza Strip, is an off-shoot of the Brotherhood that continues to use violence.",
+              "quote": "the Islamic State of Iraq and Syria (ISIS) seized control over Eastern Syria and Western Iraq",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_isis_seizure_2014_evt_aerial_bombing_isis_triggers",
+          "source": "evt_isis_seizure_2014",
+          "target": "evt_aerial_bombing_isis",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "seized control over Eastern Syria and Western Iraq, prompting a United States-led coalition to launch an aerial bombing campaign against ISIS",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_us_led_coalition_evt_aerial_bombing_isis_causes",
+          "source": "org_us_led_coalition",
+          "target": "evt_aerial_bombing_isis",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "United States-led coalition to launch an aerial bombing campaign against ISIS",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_us_led_coalition_org_sdf_enables",
+          "source": "org_us_led_coalition",
+          "target": "org_sdf",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "providing ground support and supplies to the Syrian Democratic Forces (SDF)",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_ypg_org_sdf_leads_to",
+          "source": "org_ypg",
+          "target": "org_sdf",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "a Kurdish-dominated coalition led by the People's Defense Units (YPG).",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_rojava_evt_turkey_invasion_northern_syria_2016_triggers",
+          "source": "org_rojava",
+          "target": "evt_turkey_invasion_northern_syria_2016",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Turkey launched an invasion of northern Syria in response to the creation of the Kurdish-led Autonomous Administration of North and East Syria (Rojava)",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_turkey_evt_turkey_invasion_northern_syria_2016_causes",
+          "source": "place_turkey",
+          "target": "evt_turkey_invasion_northern_syria_2016",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Turkey launched an invasion of northern Syria",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_turkey_org_sna_causes",
+          "source": "place_turkey",
+          "target": "org_sna",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "establishing the Syrian National Army (SNA)",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_sna_place_turkey_enables",
+          "source": "org_sna",
+          "target": "place_turkey",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "to help it fight ISIS and pro-Assad forces.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_pro_assad_forces_evt_pro_assad_victory_aleppo_2016_causes",
+          "source": "org_pro_assad_forces",
+          "target": "evt_pro_assad_victory_aleppo_2016",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The December 2016 victory of pro-Assad forces in the four-year Battle of Aleppo",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_pro_assad_victory_aleppo_2016_evt_recapture_aleppo_2016_leads_to",
+          "source": "evt_pro_assad_victory_aleppo_2016",
+          "target": "evt_recapture_aleppo_2016",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "victory of pro-Assad forces in the four-year Battle of Aleppo marked the recapture of what had been Syria's largest city",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_hts_org_syrian_salvation_government_causes",
+          "source": "org_hts",
+          "target": "org_syrian_salvation_government",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the Hay'at Tahrir al-Sham (HTS) militia formed the Syrian Salvation Government",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_raqqa_campaign_evt_defeat_isis_leads_to",
+          "source": "evt_raqqa_campaign",
+          "target": "evt_defeat_isis",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "ISIS was defeated in the Raqqa and Deir ez-Zor campaigns.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_deir_ez_zor_campaign_evt_defeat_isis_leads_to",
+          "source": "evt_deir_ez_zor_campaign",
+          "target": "evt_defeat_isis",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "ISIS was defeated in the Raqqa and Deir ez-Zor campaigns.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_pro_assad_forces_evt_offensive_idlib_2019_causes",
+          "source": "org_pro_assad_forces",
+          "target": "evt_offensive_idlib_2019",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "regime forces launched an offensive on Idlib province",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_offensive_idlib_2019_evt_ceasefire_2020_2024_leads_to",
+          "source": "evt_offensive_idlib_2019",
+          "target": "evt_ceasefire_2020_2024",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "an offensive on Idlib province, which ended in a ceasefire",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_pro_assad_forces_evt_regular_clashes_causes",
+          "source": "org_pro_assad_forces",
+          "target": "evt_regular_clashes",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "there were regular clashes between pro-Assad forces and HTS.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_hts_evt_regular_clashes_causes",
+          "source": "org_hts",
+          "target": "evt_regular_clashes",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "there were regular clashes between pro-Assad forces and HTS.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_hts_evt_hts_offensive_2024_causes",
+          "source": "org_hts",
+          "target": "evt_hts_offensive_2024",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "HTS launched a major offensive on 27 November 2024",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_sna_evt_hts_offensive_2024_enables",
+          "source": "org_sna",
+          "target": "evt_hts_offensive_2024",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "with support from the SNA.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_hts_offensive_2024_evt_fall_aleppo_2024_leads_to",
+          "source": "evt_hts_offensive_2024",
+          "target": "evt_fall_aleppo_2024",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "HTS launched a major offensive on 27 November 2024... Aleppo fell in three days",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_fall_aleppo_2024_conc_momentum_revolutionaries_enables",
+          "source": "evt_fall_aleppo_2024",
+          "target": "conc_momentum_revolutionaries",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Aleppo fell in three days, giving momentum to revolutionaries across the country.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_conc_momentum_revolutionaries_evt_southern_rebels_offensive_enables",
+          "source": "conc_momentum_revolutionaries",
+          "target": "evt_southern_rebels_offensive",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "giving momentum to revolutionaries across the country. Southern rebels launched their own offensive",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_southern_rebels_evt_southern_rebels_offensive_causes",
+          "source": "org_southern_rebels",
+          "target": "evt_southern_rebels_offensive",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Southern rebels launched their own offensive",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_southern_rebels_offensive_evt_capture_daraa_leads_to",
+          "source": "evt_southern_rebels_offensive",
+          "target": "evt_capture_daraa",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "capturing Daraa and Suwayda.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_southern_rebels_offensive_evt_capture_suwayda_leads_to",
+          "source": "evt_southern_rebels_offensive",
+          "target": "evt_capture_suwayda",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "capturing Daraa and Suwayda.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_hts_evt_capture_hama_causes",
+          "source": "org_hts",
+          "target": "evt_capture_hama",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "HTS captured Hama",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_free_syrian_army_evt_sfa_offensive_palmyra_causes",
+          "source": "org_free_syrian_army",
+          "target": "evt_sfa_offensive_palmyra",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the Syrian Free Army and the SDF launched separate offensives in Palmyra and Deir ez-Zor, respectively.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_sdf_evt_sdf_offensive_deir_ez_zor_causes",
+          "source": "org_sdf",
+          "target": "evt_sdf_offensive_deir_ez_zor",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the Syrian Free Army and the SDF launched separate offensives in Palmyra and Deir ez-Zor, respectively.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_fall_homs_2024_evt_assad_flees_2024_triggers",
+          "source": "evt_fall_homs_2024",
+          "target": "evt_assad_flees_2024",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "On 8 December, Bashar al-Assad fled to Moscow as Homs and Damascus fell to the revolutionaries.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_fall_damascus_2024_evt_assad_flees_2024_triggers",
+          "source": "evt_fall_damascus_2024",
+          "target": "evt_assad_flees_2024",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "On 8 December, Bashar al-Assad fled to Moscow as Homs and Damascus fell to the revolutionaries.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_revolutionaries_evt_fall_homs_2024_causes",
+          "source": "org_revolutionaries",
+          "target": "evt_fall_homs_2024",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Homs and Damascus fell to the revolutionaries.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_revolutionaries_evt_fall_damascus_2024_causes",
+          "source": "org_revolutionaries",
+          "target": "evt_fall_damascus_2024",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Homs and Damascus fell to the revolutionaries.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_assad_flees_2024_evt_pm_transfers_power_2024_leads_to",
+          "source": "evt_assad_flees_2024",
+          "target": "evt_pm_transfers_power_2024",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "On 8 December, Bashar al-Assad fled to Moscow... His prime minister transferred power to the new government",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_pm_transfers_power_2024_org_new_government_enables",
+          "source": "evt_pm_transfers_power_2024",
+          "target": "org_new_government",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "His prime minister transferred power to the new government",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_fall_assad_regime_2024_evt_israel_invasion_quneitra_2024_triggers",
+          "source": "evt_fall_assad_regime_2024",
+          "target": "evt_israel_invasion_quneitra_2024",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "On 8 December, Bashar al-Assad fled to Moscow... and Israel launched the invasion of Syria's Quneitra Governorate",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_place_israel_evt_israel_invasion_quneitra_2024_causes",
+          "source": "place_israel",
+          "target": "evt_israel_invasion_quneitra_2024",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Israel launched the invasion of Syria's Quneitra Governorate",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_conc_golan_heights_occupation_evt_israel_invasion_quneitra_2024_enables",
+          "source": "conc_golan_heights_occupation",
+          "target": "evt_israel_invasion_quneitra_2024",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "from its 58-year occupation of the Syrian Golan Heights.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_new_government_evt_dissolution_militias_2025_causes",
+          "source": "org_new_government",
+          "target": "evt_dissolution_militias_2025",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the new government announced the dissolution of several armed militias",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_new_government_evt_integration_mod_2025_causes",
+          "source": "org_new_government",
+          "target": "evt_integration_mod_2025",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the new government announced... their integration into the Syrian Ministry of Defense",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_new_government_evt_appointment_al_sharaa_president_2025_causes",
+          "source": "org_new_government",
+          "target": "evt_appointment_al_sharaa_president_2025",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the new government announced... the appointment of former HTS leader Ahmed al-Sharaa as president of Syria.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_dissolution_militias_2025_evt_integration_mod_2025_leads_to",
+          "source": "evt_dissolution_militias_2025",
+          "target": "evt_integration_mod_2025",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the dissolution of several armed militias and their integration into the Syrian Ministry of Defense",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_syrian_revolution_victory_conference_2025_enables_evt_dissolution_militias_2025",
+          "source": "evt_syrian_revolution_victory_conference_2025",
+          "target": "evt_dissolution_militias_2025",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "At the Syrian Revolution Victory Conference... the new government announced the dissolution of several armed militias",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_syrian_revolution_victory_conference_2025_enables_evt_appointment_al_sharaa_president_2025",
+          "source": "evt_syrian_revolution_victory_conference_2025",
+          "target": "evt_appointment_al_sharaa_president_2025",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "At the Syrian Revolution Victory Conference... the new government announced... the appointment of former HTS leader Ahmed al-Sharaa as president of Syria.",
               "citation_ids": [],
               "section": null,
               "char_spans": null
