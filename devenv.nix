@@ -55,6 +55,7 @@
       wikipedia
       py4cytoscape
       ipycytoscape
+      voila
     '';
   };
 

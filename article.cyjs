@@ -1,0 +1,1190 @@
+{
+  "format_version": "1.0",
+  "generated_by": "cause_effect_extractor",
+  "target_cytoscape_version": "~3.9",
+  "creationTime": "2025-08-19T19:54:59.734161Z",
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "id": "evt_egyptian_coup_2013",
+          "label": "Egyptian coup d'etat (2013)",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": "2013-07-03",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_abdel_fattah_el_sisi",
+          "label": "Abdel Fattah el-Sisi",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_mohamed_morsi",
+          "label": "Mohamed Morsi",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_removed_from_power",
+          "label": "Mohamed Morsi removed from power",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": "2013-07-03",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_constitution_suspended_2012",
+          "label": "Egyptian Constitution (2012) suspended",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": "2013-07-03",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_military_ultimatum",
+          "label": "Military's ultimatum",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_widespread_national_protests_2013",
+          "label": "Widespread national protests (2013)",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_muslim_brotherhood",
+          "label": "Muslim Brotherhood",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_muslim_brotherhood_arrests",
+          "label": "Morsi & Muslim Brotherhood leaders arrested",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": "2013-07-03",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_adly_mansour",
+          "label": "Adly Mansour",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_adly_mansour_interim_president",
+          "label": "Adly Mansour declared interim president",
+          "type": "Event",
+          "time_start": "2013-07-03",
+          "time_end": "2013-07-03",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_post_coup_demonstrations_clashes",
+          "label": "Post-coup demonstrations and clashes",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_african_union",
+          "label": "African Union",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_au_regulations_constitutional_rule",
+          "label": "AU regulations on constitutional rule",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_egypt_suspended_from_au",
+          "label": "Egypt suspended from African Union",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_pro_morsi_protests",
+          "label": "Pro-Morsi protests",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_dispersal_massacre_pro_morsi_sit_ins",
+          "label": "Dispersal and massacre of pro-Morsi sit-ins",
+          "type": "Event",
+          "time_start": "2013-08-14",
+          "time_end": "2013-08-14",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_police_military_force",
+          "label": "Police and military force",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_journalists_protestors_killed",
+          "label": "Journalists and protestors killed",
+          "type": "Event",
+          "time_start": "2013-08-14",
+          "time_end": "2013-08-14",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "person_hosni_mubarak",
+          "label": "Hosni Mubarak",
+          "type": "Person",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mass_demonstrations_2011",
+          "label": "Mass demonstrations (2011)",
+          "type": "Event",
+          "time_start": "2011-02-01",
+          "time_end": "2011-02-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_mubarak_resignation_2011",
+          "label": "Hosni Mubarak resigned (2011)",
+          "type": "Event",
+          "time_start": "2011-02-01",
+          "time_end": "2011-02-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_caretaker_government",
+          "label": "Caretaker government",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_election_law_approved_2011",
+          "label": "Election law approved (2011)",
+          "type": "Event",
+          "time_start": "2011-07-01",
+          "time_end": "2011-07-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_parliament_election_2011_2012",
+          "label": "Parliament election (2011-2012)",
+          "type": "Event",
+          "time_start": "2011-12-01",
+          "time_end": "2012-01-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_advisory_council_election_2012",
+          "label": "Advisory council election (2012)",
+          "type": "Event",
+          "time_start": "2012-01-01",
+          "time_end": "2012-02-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_freedom_justice_party",
+          "label": "Freedom and Justice Party",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_fjp_wins_elections",
+          "label": "Freedom and Justice Party wins elections",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_wins_presidential_election_2012",
+          "label": "Mohamed Morsi wins presidential election (2012)",
+          "type": "Event",
+          "time_start": "2012-06-01",
+          "time_end": "2012-06-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_becomes_president_2012",
+          "label": "Mohamed Morsi becomes president (2012)",
+          "type": "Event",
+          "time_start": "2012-06-01",
+          "time_end": "2012-06-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_supreme_constitutional_court",
+          "label": "Supreme Constitutional Court",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_scc_rules_election_law_unconstitutional",
+          "label": "SCC rules election law unconstitutional (2012)",
+          "type": "Event",
+          "time_start": "2012-06-01",
+          "time_end": "2012-06-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_elected_bodies_dissolved_2012",
+          "label": "Elected bodies dissolved (2012)",
+          "type": "Event",
+          "time_start": "2012-06-01",
+          "time_end": "2012-06-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_morsi_appoints_advisory_council_members",
+          "label": "Morsi appoints advisory council members",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_elected_parliament",
+          "label": "Elected Parliament",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_court_of_cassation",
+          "label": "Court of Cassation",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_parliament_challenges_scc_ruling",
+          "label": "Parliament challenges SCC ruling",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_new_constitutional_committee_created",
+          "label": "New constitutional committee created",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_constitutional_amendments_approved_2012",
+          "label": "Constitutional amendments approved (2012)",
+          "type": "Event",
+          "time_start": "2012-12-01",
+          "time_end": "2012-12-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_new_elections_scheduled_april_2013",
+          "label": "New elections scheduled (April 2013)",
+          "type": "Event",
+          "time_start": "2013-04-01",
+          "time_end": "2013-04-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_new_elections_postponed_october_2013",
+          "label": "New elections postponed (October 2013)",
+          "type": "Event",
+          "time_start": "2013-10-01",
+          "time_end": "2013-10-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "org_administrative_court",
+          "label": "Administrative Court",
+          "type": "Organization",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_administrative_court_order",
+          "label": "Administrative court order",
+          "type": "Event",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "evt_protests_against_morsi_declaration_2012",
+          "label": "Protests against Morsi's Constitutional Declaration (2012)",
+          "type": "Event",
+          "time_start": "2012-11-01",
+          "time_end": "2012-11-01",
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "concept_morsi_constitutional_declaration",
+          "label": "Morsi's Constitutional Declaration",
+          "type": "Concept",
+          "time_start": null,
+          "time_end": null,
+          "wikidata_id": null,
+          "provenance": null,
+          "meta": {}
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "id": "e_person_abdel_fattah_el_sisi_evt_morsi_removed_from_power_causes",
+          "source": "person_abdel_fattah_el_sisi",
+          "target": "evt_morsi_removed_from_power",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Egyptian army chief General Abdel Fattah el-Sisi led a coalition to remove the democratically elected President of Egypt Mohamed Morsi from power",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_person_abdel_fattah_el_sisi_evt_constitution_suspended_2012_causes",
+          "source": "person_abdel_fattah_el_sisi",
+          "target": "evt_constitution_suspended_2012",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Egyptian army chief General Abdel Fattah el-Sisi led a coalition to remove the democratically elected President of Egypt Mohamed Morsi from power and suspended the Egyptian constitution of 2012.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_evt_morsi_removed_from_power_causes",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_morsi_removed_from_power",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The 2013 Egyptian coup d'etat... remove the democratically elected President of Egypt Mohamed Morsi from power",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_evt_constitution_suspended_2012_causes",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_constitution_suspended_2012",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The 2013 Egyptian coup d'etat... suspended the Egyptian constitution of 2012.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_widespread_national_protests_2013_triggers_evt_military_ultimatum",
+          "source": "evt_widespread_national_protests_2013",
+          "target": "evt_military_ultimatum",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The move came after the military's ultimatum for the government to \"resolve its differences\" with protesters during widespread national protests.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_military_ultimatum_triggers_evt_egyptian_coup_2013",
+          "source": "evt_military_ultimatum",
+          "target": "evt_egyptian_coup_2013",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The move came after the military's ultimatum for the government to \"resolve its differences\" with protesters during widespread national protests.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_causes_evt_morsi_muslim_brotherhood_arrests",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_morsi_muslim_brotherhood_arrests",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The military arrested Morsi and Muslim Brotherhood leaders",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_causes_evt_adly_mansour_interim_president",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_adly_mansour_interim_president",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "and declared Chief Justice of the Supreme Constitutional Court Adly Mansour as the interim president of Egypt.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_leads_to_evt_post_coup_demonstrations_clashes",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_post_coup_demonstrations_clashes",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The announcement was followed by demonstrations and clashes between supporters and opponents of the move throughout Egypt.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_egyptian_coup_2013_triggers_evt_egypt_suspended_from_au",
+          "source": "evt_egyptian_coup_2013",
+          "target": "evt_egypt_suspended_from_au",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Due to the regulations of the African Union regarding the interruption of constitutional rule by a member state, Egypt was suspended from that union.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_post_coup_demonstrations_clashes_leads_to_evt_pro_morsi_protests",
+          "source": "evt_post_coup_demonstrations_clashes",
+          "target": "evt_pro_morsi_protests",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Ensuing protests in favour of Morsi were violently suppressed",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_pro_morsi_protests_causes_evt_dispersal_massacre_pro_morsi_sit_ins",
+          "source": "evt_pro_morsi_protests",
+          "target": "evt_dispersal_massacre_pro_morsi_sit_ins",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Ensuing protests in favour of Morsi were violently suppressed culminating with the dispersal and massacre of pro-Morsi sit-ins on 14 August 2013",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_dispersal_massacre_pro_morsi_sit_ins_causes_evt_journalists_protestors_killed",
+          "source": "evt_dispersal_massacre_pro_morsi_sit_ins",
+          "target": "evt_journalists_protestors_killed",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "culminating with the dispersal and massacre of pro-Morsi sit-ins on 14 August 2013, amid ongoing unrest; journalists and several hundred protestors were killed by police and military force.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_police_military_force_causes_evt_journalists_protestors_killed",
+          "source": "concept_police_military_force",
+          "target": "evt_journalists_protestors_killed",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "journalists and several hundred protestors were killed by police and military force.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_mass_demonstrations_2011_causes_evt_mubarak_resignation_2011",
+          "source": "evt_mass_demonstrations_2011",
+          "target": "evt_mubarak_resignation_2011",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Hosni Mubarak resigned after 18 days of mass demonstrations that ended his 29-year rule of Egypt.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_election_law_approved_2011_leads_to_evt_parliament_election_2011_2012",
+          "source": "evt_election_law_approved_2011",
+          "target": "evt_parliament_election_2011_2012",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "In July 2011 the caretaker government approved an election law, leading to election of a Parliament in December 2011 – January 2012",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_election_law_approved_2011_leads_to_evt_advisory_council_election_2012",
+          "source": "evt_election_law_approved_2011",
+          "target": "evt_advisory_council_election_2012",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "In July 2011 the caretaker government approved an election law, leading to... an advisory council in January–February 2012.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_parliament_election_2011_2012_leads_to_evt_fjp_wins_elections",
+          "source": "evt_parliament_election_2011_2012",
+          "target": "evt_fjp_wins_elections",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "An alliance led by the Freedom and Justice Party won the most seats in each election.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_advisory_council_election_2012_leads_to_evt_fjp_wins_elections",
+          "source": "evt_advisory_council_election_2012",
+          "target": "evt_fjp_wins_elections",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "An alliance led by the Freedom and Justice Party won the most seats in each election.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_morsi_wins_presidential_election_2012_leads_to_evt_morsi_becomes_president_2012",
+          "source": "evt_morsi_wins_presidential_election_2012",
+          "target": "evt_morsi_becomes_president_2012",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "In June 2012, Mohamed Morsi won the presidential election with 51.73% of total votes to become the first democratically elected president of Egypt.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_election_law_approved_2011_causes_evt_scc_rules_election_law_unconstitutional",
+          "source": "evt_election_law_approved_2011",
+          "target": "evt_scc_rules_election_law_unconstitutional",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the Supreme Constitutional Court ruled that the election law was unconstitutional",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_scc_rules_election_law_unconstitutional_causes_evt_elected_bodies_dissolved_2012",
+          "source": "evt_scc_rules_election_law_unconstitutional",
+          "target": "evt_elected_bodies_dissolved_2012",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "the Supreme Constitutional Court ruled that the election law was unconstitutional and ordered the elected bodies dissolved.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_morsi_becomes_president_2012_enables_evt_morsi_appoints_advisory_council_members",
+          "source": "evt_morsi_becomes_president_2012",
+          "target": "evt_morsi_appoints_advisory_council_members",
+          "relation_type": "enables",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "After assuming office, President Morsi appointed additional members to the advisory council",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_elected_bodies_dissolved_2012_triggers_evt_parliament_challenges_scc_ruling",
+          "source": "evt_elected_bodies_dissolved_2012",
+          "target": "evt_parliament_challenges_scc_ruling",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "The elected parliament determined that the constitutional court did not have authority to dissolve an elected parliament, then referred the matter to the Court of Cassation.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_org_elected_parliament_causes_evt_new_constitutional_committee_created",
+          "source": "org_elected_parliament",
+          "target": "evt_new_constitutional_committee_created",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Parliament also proceeded with the creation of a new constitutional committee to draft amendments to the Egyptian Constitution",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_new_constitutional_committee_created_leads_to_evt_constitutional_amendments_approved_2012",
+          "source": "evt_new_constitutional_committee_created",
+          "target": "evt_constitutional_amendments_approved_2012",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "Proposed constitutional amendments were approved in December 2012 by a national referendum.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_new_elections_scheduled_april_2013_leads_to_evt_new_elections_postponed_october_2013",
+          "source": "evt_new_elections_scheduled_april_2013",
+          "target": "evt_new_elections_postponed_october_2013",
+          "relation_type": "leads_to",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "New elections were scheduled for April 2013 under a law approved in draft by the constitutional court, but were postponed to October 2013",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_evt_administrative_court_order_causes_evt_new_elections_postponed_october_2013",
+          "source": "evt_administrative_court_order",
+          "target": "evt_new_elections_postponed_october_2013",
+          "relation_type": "causes",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "but were postponed to October 2013 to comply with a technical order of an administrative court.",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      },
+      {
+        "data": {
+          "id": "e_concept_morsi_constitutional_declaration_triggers_evt_protests_against_morsi_declaration_2012",
+          "source": "concept_morsi_constitutional_declaration",
+          "target": "evt_protests_against_morsi_declaration_2012",
+          "relation_type": "triggers",
+          "polarity": 1,
+          "confidence": 0.5,
+          "lag_days": null,
+          "evidence": [
+            {
+              "quote": "following the protests against the Constitutional Declaration by Morsi",
+              "citation_ids": [],
+              "section": null,
+              "char_spans": null
+            }
+          ],
+          "temporal_valid": true,
+          "provisional": false,
+          "meta": {}
+        }
+      }
+    ]
+  }
+}
